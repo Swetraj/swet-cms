@@ -8,7 +8,7 @@ const TUTOR_THEME_LIGHT: ThemeTypes = {
     'border-opacity': 1
   },
   colors: {
-    primary: '#00A1FF',
+    primary: '#000000',
     secondary: '#8965E5',
     info: '#46caeb',
     success: '#00ceb6',
@@ -20,7 +20,7 @@ const TUTOR_THEME_LIGHT: ThemeTypes = {
     lighterror: '#ffe4ec',
     lightinfo: '#e1f5fa',
     lightwarning: '#fff1cc',
-    textPrimary: '#111c2d',
+    textPrimary: '#000000',
     textSecondary: '#7b8893',
     borderColor: '#e0e6eb',
     containerBg: '#F8FAFD',
