@@ -1,13 +1,10 @@
 <template>
   <v-layout>
-    <v-container>
-      <v-row>
-        <v-col>
-          <v-main>
-            <slot />
-          </v-main>
-        </v-col>
-      </v-row>
-    </v-container>
+    <lazy-layouts-nav-bar />
+    <v-main>
+      <div class="pa-8">
+        <slot />
+      </div>
+    </v-main>
   </v-layout>
 </template>
