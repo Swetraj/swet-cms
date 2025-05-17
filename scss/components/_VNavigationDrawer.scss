@@ -5,3 +5,13 @@
 .v-navigation-drawer__scrim {
   position: fixed;
 }
+.primary-navbar {
+  .v-navigation-drawer__content {
+    display: flex;
+    flex-direction: column;
+  }
+  .v-list {
+    background: transparent;
+    color: white;
+  }
+}

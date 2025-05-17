@@ -1,4 +1,4 @@
-import { TUTOR_THEME_LIGHT } from '~/theme/LightTheme'
+import { TUTOR_THEME_LIGHT } from '@@/theme/LightTheme'
 
 const vuetifyTheme = {
   theme: {

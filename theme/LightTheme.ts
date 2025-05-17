@@ -1,4 +1,4 @@
-import type { ThemeTypes } from '~/types/ThemeType'
+import type { ThemeTypes } from './index'
 
 const TUTOR_THEME_LIGHT: ThemeTypes = {
   name: 'BLUE_THEME',
